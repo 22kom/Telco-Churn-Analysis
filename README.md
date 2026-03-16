@@ -1,6 +1,6 @@
 # Telco-Churn-Analysis
 Exploratory Data Analysis and Churn Prediction for a Telecom dataset using Python and Pandas.
-# Customer Segmentation & Churn Prediction Analysis 📊
+# Customer Segmentation & Churn Prediction Analysis
 ## Project Overview
 This project focuses on analyzing customer behavior in a telecommunications company to identify key factors leading to **churn** (customers leaving the service). By leveraging Exploratory Data Analysis (EDA) and Machine Learning, the project provides actionable insights to improve customer retention.
 
