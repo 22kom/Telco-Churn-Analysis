@@ -18,7 +18,6 @@ This project focuses on analyzing customer behavior in a telecommunications comp
 ## Project Structure
 - `data/`: Contains the customer dataset.
 - `notebooks/`: Includes the step-by-step analysis from data cleaning to modeling.
-- `visualizations/`: PNG files of the most impactful charts.
 - `README.md`: Project documentation.
 
 ## Machine Learning Model
